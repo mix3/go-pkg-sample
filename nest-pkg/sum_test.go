@@ -3,7 +3,7 @@ package GoPkgSample
 import (
 	"testing"
 
-	. "github.com/mix3/go-pkg-sample"
+	. "github.com/mix3/go-pkg-sample/nest-pkg"
 )
 
 func TestSum(t *testing.T) {
